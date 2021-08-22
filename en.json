@@ -1,0 +1,39 @@
+{
+    "text": {
+        "prod_list": "Products list",
+        "name": "Name",
+        "price": "Price",
+        "on_price": "To pay",
+        "secret_id": "Secret id",
+        "link": "Link for payment",
+        "msg_2": "Click on the reaction below,\ncorresponding to the serial\nnumber of the product",
+        "choise": "You chose:",
+        "msg_3": "If the selected product is correct - click ✅\nIf you made a mistake in your choice - click ❌",
+        "msg_6": "Excellent! Now you need to pay for order. Please\nread  short instruction before paying.\n**An example is on the screenshot below.**\n\n**INSTRUCTION**\n\n**1.** In 'Your name' enter your Discord nickname - Nick # 1234.\n**2.** In 'Your message' enter the Secret ID, which is listed below.\n**3.** Click 'Pay'.\n**4.** Go back to Discord and click on the reaction below 💳.",
+        "msg_6_title": "Payment for the order",
+        "msg_discord_create": "The order has been successfully created! It was manually\ncreated and tied to the Discord user -",
+        "create": "Order created",
+        "product": "Product",
+        "queue": "In queue",
+        "member": "Member",
+        "description": "Description",
+        
+        "error_active_img": "https://cdn.discordapp.com/attachments/863578553986842664/863579034880835594/error.png",
+        "none_active_img": "https://cdn.discordapp.com/attachments/863578553986842664/863579038249254962/error_2.png",
+        "disable_img": "https://cdn.discordapp.com/attachments/863843424910442506/864106703698919464/1625524162039.jpg",
+        
+        "start_img": "https://cdn.discordapp.com/attachments/863578553986842664/863828162726592532/hello_DM.png",
+        "msg_rejected_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578712351047710/request_rejected.png",
+        "lang_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578643417661460/111.png",
+        "msg_4_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578645892038666/222.png",
+        "msg_5_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578649101860915/333.png",
+        "value_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578654428626954/cur_sel.png",
+        "value_rub_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578707007897600/r.png",
+        "value_usd_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578657522712586/d.png",
+        "msg_7_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578695654703135/pay_ver.png",
+        "msg_8_img": "https://cdn.discordapp.com/attachments/863578553986842664/863578699182243841/payment_confirmed.png",
+        "cancel_img": "https://cdn.discordapp.com/attachments/863578553986842664/863813778830393354/pnf.png",
+        "cancel_img_command": "https://cdn.discordapp.com/attachments/863578553986842664/863843564081643520/order_canceled.png",
+        "order_complete": "https://cdn.discordapp.com/attachments/863578553986842664/863891321222856754/a2d2197a53e5b25d.png"
+    }
+}

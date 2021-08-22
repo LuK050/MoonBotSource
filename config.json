@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "token": "#",
+    "prefix": ".",
+    "id": 0,
+    "server": "#",
+    "server_id": 0,
+
+    "mo0nray_id": 0,
+
+    "_comment_1": "Каналы",
+    "queue_channel_id": 0,
+    "order_channel_id": 0,
+
+    "_comment_2": "Категории",
+    "order_category_id": 0,
+    "active_order_category_id": 0,
+
+    "_comment_3": "Сообщения",
+    "order_msg_id": 0,
+
+    "_comment_4": "Сообщения",
+    "member_role_id": 0
+  }
+}
