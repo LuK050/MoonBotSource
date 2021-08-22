@@ -20,7 +20,7 @@ with open('config.json', 'r', encoding="utf-8") as file:
 class User(commands.Cog):
     def __init__(self, client):
         self.client = client
-        self.cluster = MongoClient("mongodb+srv://MoonBOT2:lxIEfbQQrPEXMBgP@cluster0.9oi72.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+        self.cluster = MongoClient("#")
         self.product = self.cluster.MoonBOT.products
 
 
